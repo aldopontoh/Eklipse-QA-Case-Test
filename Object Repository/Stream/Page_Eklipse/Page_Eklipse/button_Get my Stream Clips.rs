@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get my Stream Clips</name>
+   <tag></tag>
+   <elementGuidId>e2b1f244-8471-469e-b49e-a870161f328a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>button.ek-primary-button.pl-3.pr-3.justify-content-center.btn-full-sm.btn-big-font-size.w-100</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[46]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>22731fbd-47a9-44c9-a0e9-7eb738fe0ee0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>a977c39c-4705-413d-b0b1-32092ee59ace</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-primary-button pl-3 pr-3 justify-content-center btn-full-sm btn-big-font-size w-100</value>
+      <webElementGuid>b824a7c8-a81e-40f6-910d-486737bb2067</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get my Stream Clips</value>
+      <webElementGuid>f27d48ab-6932-48ff-b5f6-ea62397207c3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-streams ek-streams-page&quot;]/div[@class=&quot;mt-5&quot;]/div[@class=&quot;ek-stream-list&quot;]/div[@class=&quot;content-section-wrapper&quot;]/div[@class=&quot;empty-stream-ai-highlight-section content-section mt-2&quot;]/div[@class=&quot;info-col&quot;]/div[@class=&quot;mt-3&quot;]/button[@class=&quot;ek-primary-button pl-3 pr-3 justify-content-center btn-full-sm btn-big-font-size w-100&quot;]</value>
+      <webElementGuid>c846dd60-24ab-48d8-853e-23dd8482a5d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[46]</value>
+      <webElementGuid>20bfdb92-ce7b-4900-85c1-edaf4dca4521</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[2]/div/div/div/div[2]/div[5]/button</value>
+      <webElementGuid>974c350b-35db-4f1f-863a-31ae8062454a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Victory'])[1]/following::button[1]</value>
+      <webElementGuid>6e256f3b-fbd1-4f2d-a47f-9c32637fa516</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi-kill'])[1]/following::button[1]</value>
+      <webElementGuid>c9af267e-8c0e-463f-b8f9-aa0b94a9229d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/preceding::button[1]</value>
+      <webElementGuid>39d983c2-f191-4008-9f77-1ef6ee6437ae</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convert Clip to Vertical'])[1]/preceding::button[1]</value>
+      <webElementGuid>2c038f67-0580-420d-9bfc-05c259f87532</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get my Stream Clips']/parent::*</value>
+      <webElementGuid>6f36238f-b094-455f-8a37-92418d1a7db4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>605f9234-8dc9-4e41-a4c6-a807611aafee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Get my Stream Clips' or . = 'Get my Stream Clips')]</value>
+      <webElementGuid>985bd86f-a6b0-4d1e-b78f-ca2287a9242d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

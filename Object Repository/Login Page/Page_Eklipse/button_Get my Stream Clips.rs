@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_Get my Stream Clips</name>
+   <tag></tag>
+   <elementGuidId>ecf9d559-578a-4cfc-97a8-2ac86f96e75b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[44]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.ek-primary-button.pl-3.pr-3.justify-content-center.btn-full-sm.btn-big-font-size.w-100</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>d7dabe46-f117-401c-9bd6-ac38e522fa4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>927f99fa-58dd-4611-bdb8-4a4ef1cef756</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ek-primary-button pl-3 pr-3 justify-content-center btn-full-sm btn-big-font-size w-100</value>
+      <webElementGuid>aa8ae129-8688-4569-a83e-be09d659e69a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Get my Stream Clips</value>
+      <webElementGuid>bc17f9ec-70ec-432c-9cfb-4bea4a12ba0e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dashboard&quot;)/div[@class=&quot;ek-dashboard&quot;]/div[@class=&quot;content&quot;]/div[@class=&quot;container-children-dashboard&quot;]/div[@class=&quot;ek-dashboard__home&quot;]/div[@class=&quot;ek-stream-list&quot;]/div[@class=&quot;content-section-wrapper&quot;]/div[@class=&quot;empty-stream-ai-highlight-section content-section mt-2&quot;]/div[@class=&quot;info-col&quot;]/div[@class=&quot;mt-3&quot;]/button[@class=&quot;ek-primary-button pl-3 pr-3 justify-content-center btn-full-sm btn-big-font-size w-100&quot;]</value>
+      <webElementGuid>66c0edda-4e22-4a21-8ae1-7c70fe63d8c6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[44]</value>
+      <webElementGuid>de421973-f968-43e1-98f1-9928ed00156c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dashboard']/div[3]/div/div/div/div[2]/div/div/div[2]/div[5]/button</value>
+      <webElementGuid>a5d6ad5d-c3f7-4aeb-8831-b1ad4bdda362</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Victory'])[1]/following::button[1]</value>
+      <webElementGuid>3191c73d-4e8f-4e1e-8f41-657fd36cb4e2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Multi-kill'])[1]/following::button[1]</value>
+      <webElementGuid>08eb2024-1cd8-4724-b3de-86518cbd5c6b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Or'])[1]/preceding::button[1]</value>
+      <webElementGuid>c2b12d79-26a6-46ed-bfe4-038e577a56ea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Convert Clip to Vertical'])[1]/preceding::button[1]</value>
+      <webElementGuid>d8f59264-6231-49b6-977c-4566a1ff73a9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Get my Stream Clips']/parent::*</value>
+      <webElementGuid>34890b56-ad44-4c98-a167-78c2202f4d87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/button</value>
+      <webElementGuid>62bd4f76-daf5-44fe-87ba-191e828958f9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = 'Get my Stream Clips' or . = 'Get my Stream Clips')]</value>
+      <webElementGuid>4b8886fe-baae-4aac-9ca5-ee20716e88b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
